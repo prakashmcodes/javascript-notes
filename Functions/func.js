@@ -19,7 +19,7 @@ function mul(n1, n2) {
 
 console.log(mul(5, 3));
 
-function food(food) {
+const food = (food) => {
   console.log("My fav food is " + food);
 }
 
