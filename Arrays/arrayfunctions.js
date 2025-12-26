@@ -21,8 +21,8 @@ console.log(gadgets);
 
 gadgets.splice(2, 0, "Powebank") // custom add
 
-console.log(gadgets)
+console.log(gadgets);
 
 gadgets.splice(0, 2, "Powebank") // custom remove
 
-console.log(gadgets)
+console.log(gadgets);
